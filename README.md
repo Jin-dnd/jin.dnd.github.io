@@ -1,5 +1,28 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="Screenshot 2025-03-26 203949.png">
- <source media="(prefers-color-scheme: light)" srcset="Screenshot 2025-03-26 203949.png">
- <img alt="Again" src="Screenshot 2025-03-26 203949.png">
-</picture>
+<html>
+<head>
+<style>
+h1{
+    color: white;
+    font-size: 450%;
+    border: none;
+}
+p{
+    color: white;
+    font-size: 150%;
+}
+body{
+    background-image: url('scroll.png');
+}
+img{
+    width: 200px;
+    length: 500px;
+}
+</style>
+</head>
+<body>
+<img src="Monster_Hunter_logo.png" style="float: right;"/>
+<h1 style="font-family:georgia;">Monster Hunter D&D</h1>
+<p>Visit the <a href="https://trello.com/b/lKYwWazM/dnd">Trello to see classes.</p>
+
+</body>
+</html>
